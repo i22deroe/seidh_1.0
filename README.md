@@ -15,6 +15,7 @@ Seidh 1.0 está escrito para Python 2.7 y requiere los siguientes módulos de Py
 *	biopython 1.66 o superior
 *	numpy 1.14.0 o superior
 *	PeptideBuilder 1.0.3 o superior
+
 Para utilizarla, basta con importar el módulo principal:
 ```{python}
 from seidh import seidh
