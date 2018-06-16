@@ -13,7 +13,7 @@ import os
 from Bio.PDB import *
 from Bio.SeqUtils import *
 from PeptideBuilder import Geometry, PeptideBuilder
-from constants.constants import proteins,peptides,predictions,entities
+from props.props import proteins,peptides,predictions,entities
 import random
 
 #Constants
