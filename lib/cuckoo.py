@@ -33,7 +33,7 @@ from distance import VdW_minima,inner_stability
 from levy_distribution import levy_distro as levy
 from PeptideBuilder import Geometry, PeptideBuilder
 from copy import deepcopy
-from props.props import proteins,peptides,predictions,entities
+from props.props import MAX_AA
 import numpy
 import multiprocessing as mp
 import random
